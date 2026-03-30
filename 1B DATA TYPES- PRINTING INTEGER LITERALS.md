@@ -26,4 +26,7 @@ print(num3)
 ```
 ## OUTPUT
 
+![Screenshot 2025-04-29 110326](https://github.com/user-attachments/assets/14adb72c-069d-4079-bfff-7f7d72ec64cc)
+
+
 ## RESULT
